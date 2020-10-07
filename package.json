@@ -1,0 +1,11 @@
+{
+  "name": "lab-one",
+  "version": "1.0.0",
+  "description": "Lab 1 for GMIT submission",
+  "main": "tests.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "author": "Milosz Milewski (G00376658)",
+  "license": "ISC"
+}
